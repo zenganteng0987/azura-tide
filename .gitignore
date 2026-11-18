@@ -1,0 +1,2 @@
+# main.ts writes its hand-in output here; it is rebuilt on every run, never committed.
+out/
